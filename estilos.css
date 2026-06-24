@@ -1,0 +1,30 @@
+        h1 {
+            color: darkblue;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        body {
+            background-color: #d1e1ee;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 80%;
+            margin-left: 2%;
+            margin-right: 10%;
+            padding: 20px;
+        }
+
+        p {
+            text-align: justify;
+            font-family: Times New Roman, Times, serif;
+        } 
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #d1e1ee;
+        }
+
+        a {
+            color: darkblue;
+            text-decoration: none;
+        }
